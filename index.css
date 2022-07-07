@@ -1,9 +1,87 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ h1{
+    font-style: italic;
+    
+}
+.ppp{
+    color: blueviolet;
+  }
 
-
+p {
+text-align: center;
+}
 
 body{
 background:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMt0pCziVT1atV1j6T2XtS_uzU-Wjm7zHLow&usqp=CAU)
 }
+
 html {
     scroll-behavior: smooth;
+}   
+li{
+    display: inline;
 }
+    h1 {
+        font-family: roboto;
+        text-align: center;
+        text-decoration: none;
+    }
+
+ul{
+   width: 28% ;
+   height:24% ;
+   border-radius: 15px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0%;
+overflow: hidden;
+background-color: rgb(17, 137, 3);
+}
+
+li { 
+   float: left;
+   height: 42px;
+}
+
+li a {
+
+    display: block;
+    color: rgb(0, 0, 0);
+    padding: 14px 16px;
+    text-decoration: none;
+}
+   li a:hover {
+  
+    background-color: rgba(28, 0, 0, 0.326);
+} 
+
+ 
+
+
+
+
+.imgone{
+    width:300px;
+    height: 300px;
+    margin-left: 40%;
+    border-radius: 15px;
+    border:4px dashed rgb(19, 171, 180)
+}
+
+img{
+margin-left: 42%;
+
+}
+.imgtwo{
+margin-left: 40%;
+  width: 300px;   
+  height: 300px;
+  border: 6px dotted rgb(19, 171, 180);
+  border-radius: 15px
+}
+
+
+   
+ 
